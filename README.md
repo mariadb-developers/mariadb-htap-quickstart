@@ -252,7 +252,7 @@ $ SELECT * FROM columnstore_db.flights WHERE year = 2020;
 
 ## More resources
 
-- [Deploy HTAP with MariaDB ColumnStore 1.5 and MariaDB Community 10.5](https://mariadb.com/docs/deploy/community-htap/)
+- [Deploy HTAP with MariaDB ColumnStore 5.5 and MariaDB Community 10.6](https://mariadb.com/docs/deploy/community-htap/)
 - [Sign up for MariaDB SkySQL](https://mariadb.com/products/skysql/get-started/)
 - [Official MariaDB SkySQL Documentation](https://mariadb.com/products/skysql/docs/)
 
